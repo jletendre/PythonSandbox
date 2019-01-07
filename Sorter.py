@@ -26,7 +26,7 @@ class Sorter:
 
 
 if __name__ == '__main__':
-    my_sorter = Sorter([1, 4, 6, 2])
+    my_sorter = Sorter([11, 4, 6, 2])
 
     my_sorted = my_sorter.sorted_()
     print(f"my_sorter:{my_sorter}")
